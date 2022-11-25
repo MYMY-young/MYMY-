@@ -4,6 +4,12 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
+| Education | Experience |
+| B.S. | :------: |
+| Sogang Univ  |          |
+| Computer Science and Engineering|                        |
+
+
 **Education**
 
  M.S. : Artificial Intelligence at Sogang Univ. (Mar.2023 - )
