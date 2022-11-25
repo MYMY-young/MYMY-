@@ -10,6 +10,6 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
  M.S. : Artificial Intelligence at Sogang Univ. (Mar.2023 - )
  B.S. : Computer Science and Engineering at Sogang Univ. (Mar.2019 - Present)
 
-**Research Interest**
+**:green_book: Research Interest**
 
  Semantic Segmentation
