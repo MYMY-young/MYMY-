@@ -5,7 +5,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
 I am a member of Visual Representation Lab. My advisor is Junsuk Choe.
-I am interested in Semantic Segmentation 
+I am interested in Semantic Segmentation under Domain Shift.
 
 **:school: Education**
 
@@ -15,5 +15,5 @@ I am interested in Semantic Segmentation
 **:green_book: Research Interest**
 
  - Semantic Segmentation
- 
+ - Domain Shift
 
