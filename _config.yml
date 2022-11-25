@@ -282,8 +282,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
+      title : "아아"
       layout: single
       author_profile: true
       read_time: true
