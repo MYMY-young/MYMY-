@@ -4,10 +4,9 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
-| Education | Experience |
-| B.S. | :------: |
-| Sogang Univ  |          |
-| Computer Science and Engineering|                        |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | :------: | -------- | -------- |
+| No span  | Span across three columns    |||
 
 
 **Education**
