@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
-I am a member of Visual Representation Learning Lab. My advisor is Junsuk Choe. My research interests are Semantic Segmentation and Domain Adaptation.
+I am a Undergraduate student in Department of Computer Science and Engineering at Sogang University. My advisor is Junsuk Choe. My research interests are Semantic Segmentation and Domain Adaptation.
 
 [Download CV](https://drive.google.com/file/d/11jDwVwQiH0NU0MNDXlsfTYAtsgqoT4GV/view?usp=sharing)
 
